@@ -44,7 +44,7 @@ body {
 }
 
 .card:hover {
-    transform: translateX(-5px);
+    transform: translateY(-5px);
 }
 
 .card img {
